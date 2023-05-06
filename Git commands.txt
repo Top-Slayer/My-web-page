@@ -17,4 +17,4 @@ $ git branch name // create name branch.
 $ git checkout name // go to name branch.
 
 --Git Merge Branches
-$ git merge 
+$ git merge name // merge 
