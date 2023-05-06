@@ -1,0 +1,3 @@
+- git init // create .git hidden folder.
+- git status // detect status of git.
+- git add index.html // add this file into .git folder.
