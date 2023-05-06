@@ -1,3 +1,20 @@
-- git init // create .git hidden folder.
-- git status // detect status of git.
-- git add index.html // add this file into .git folder.
+$ git init // create .git hidden folder.
+$ git status // detect status of git.
+
+--Add Staging Evironment: 
+$ git add index.html // add this file into .git folder.
+$ git add . || git add --all
+
+--Git Commit
+$ git commit -m "text" // add text to evironment.
+
+--Git Commit Log
+$ git log // view history of commit for a repository.
+
+--Git Branch
+$ git branch // detect all branch.
+$ git branch name // create name branch.
+$ git checkout name // go to name branch.
+
+--Git Merge Branches
+$ git merge 
